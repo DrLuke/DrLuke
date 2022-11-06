@@ -1,5 +1,8 @@
 ## Hello there 👋
 
+### Interests
+- 🦀 Rust ([bevy](https://bevyengine.org/), [rocket](https://rocket.rs/))
+- 🎛️ OSC ([rosc](https://github.com/klingtnet/rosc), [bevy_rosc](https://github.com/DrLuke/bevy_rosc))
 
 ### Contact
 🐘 <a rel="me" href="https://chaos.social/@DrLuke">Mastodon</a>

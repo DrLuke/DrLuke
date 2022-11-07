@@ -5,7 +5,7 @@
 - 🎛️ OSC ([rosc](https://github.com/klingtnet/rosc), [bevy_rosc](https://github.com/DrLuke/bevy_rosc))
 
 ### Contact
-🐘 <a rel="me" href="https://chaos.social/@DrLuke">Mastodon</a>
+🐘 <a href="https://chaos.social/@DrLuke">Mastodon</a><link rel="me" href="https://chaos.social/@DrLuke" />
 
 <!--
 **DrLuke/DrLuke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

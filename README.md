@@ -10,6 +10,7 @@ I'm Lukas (he/him). At day I'm a web developer and at night I make visuals.
 I'm working on a new version of my [Pyree Engine](https://github.com/DrLuke/bevy_pyree/tree/initial), a VJing tool for creating real time visuals. My old engine has served me for many years, but now it's time to add more capabilities and increase the variety of possibilities, especially by leveraging the 3D rendering features of the excellent bevy engine.
 
 Some of my past performances:
+- [GPN21](https://www.youtube.com/watch?v=issbs2oT7MI) ([Repo](https://github.com/DrLuke/vjpyree-gpn21))
 - [GPN20](https://www.youtube.com/watch?v=BQ-iks8E3Rg) (My visuals are on the top screen, bottom screens are [discoders.io](https://discoders.io/))
 - [GPN19](https://www.youtube.com/watch?v=-dbhbMOk3X4)
 - [Chaos West@34c3](https://www.youtube.com/watch?v=xwAj3wwsCI0)
